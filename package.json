@@ -1,0 +1,21 @@
+{
+    "author": "Michael Kroher",
+    "name":  "text-optional",
+    "description": "Compare a string with optional characters",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/infrared/text-optional-js.git"
+    },
+    "main": "./lib/index",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": { 
+        "text-abbrev": "0.0.1"
+    },
+    "keywords": [
+        "abbreviations",
+        "optional text"
+    ]
+}
